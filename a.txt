@@ -1,1 +1,2 @@
 CC thanh da sua file nay
+toi da code js rat hay
